@@ -1,6 +1,6 @@
 Database
 
-The Employee Management App is a comprehensive solution designed to streamline the management of employee information within an organization. This user-friendly application allows for efficient storage, editing, deletion, and viewing of employee details, ensuring that HR tasks are simplified and organized.
+The Employee Management App is a comprehensive solution designed to streamline the management of employee information within an organization. This user-friendly application allows for efficient storage, editing, deletion, and viewing of employee details.
 
 **Key Features:**
 
